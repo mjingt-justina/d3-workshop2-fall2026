@@ -69,11 +69,10 @@ git push
 ## Your answers
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
-
->
+>Carlos Sainz (SAI) had the most different tyre strategy compared to the winner, Oscar Piastri (PIA). Piastri used medium and hard tyres across three stints, while Sainz used medium, hard, and soft tyres across five stints. The chart shows this difference through the number of colored bars and the multiple soft tyre stints used by Sainz.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
-
+In the 2025 Dutch Grand Prix, the race trace shows how small differences in lap times add up throughout the race. It also makes sudden changes in time gaps, such as those caused by pit stops, easier to see. A plain chart of lap times would not show the overall time gained or lost compared to the reference driver as clearly.
 >
 
 **Bonus** (optional): which race did you add, and why?

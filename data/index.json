@@ -19,5 +19,12 @@
     "year": 2025,
     "meeting_key": 1267,
     "file": "races/2025-dutch.json"
+  },
+  {
+    "id": "2024-sao-paulo",
+    "label": "São Paulo Grand Prix 2024",
+    "year": 2024,
+    "meeting_key": 1249,
+    "file": "races/2024-sao-paulo.json"
   }
 ]

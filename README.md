@@ -76,7 +76,7 @@ In the 2025 Dutch Grand Prix, the race trace shows how small differences in lap 
 >
 
 **Bonus** (optional): which race did you add, and why?
-
+I added the 2024 São Paulo Grand Prix because the rainy conditions, safety car periods, and different pit stop strategies make it an interesting race to analyze. The race also features Max Verstappen's comeback from 17th on the grid to victory, making it useful for comparing tyre strategies and cumulative time gaps.
 >
 
 ---
